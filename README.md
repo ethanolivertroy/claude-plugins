@@ -10,16 +10,17 @@ A collection of Claude Code plugins.
 
 ## Installation
 
-To use a plugin, run Claude Code with the plugin directory:
+### From GitHub (Recommended)
 
 ```bash
-claude --plugin-dir ./ghost-content-plugin
+/plugin install https://github.com/ethanolivertroy/claude-plugins/tree/main/ghost-content-plugin
 ```
 
-Or install from the marketplace when available:
+### Local Development
 
 ```bash
-/plugin install ghost
+git clone https://github.com/ethanolivertroy/claude-plugins.git
+claude --plugin-dir ./claude-plugins/ghost-content-plugin
 ```
 
 ## License
