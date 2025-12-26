@@ -1,11 +1,16 @@
 {
-  "name": "ethanolivertroy",
-  "description": "Claude Code plugins by Ethan Troy",
+  "name": "ethanolivertroy-plugins",
+  "owner": {
+    "name": "Ethan Troy"
+  },
+  "metadata": {
+    "description": "Claude Code plugins by Ethan Troy"
+  },
   "plugins": [
     {
       "name": "ghost",
-      "description": "Manage Ghost blog content - create posts, sync drafts, push changes",
-      "path": "./ghost-content-plugin"
+      "source": "./ghost-content-plugin",
+      "description": "Manage Ghost blog content - create posts, sync drafts, push changes"
     }
   ]
 }
