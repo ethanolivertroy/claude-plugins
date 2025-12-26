@@ -8,6 +8,12 @@ A collection of Claude Code plugins.
 |--------|-------------|
 | [ghost-content-plugin](./ghost-content-plugin/) | Manage Ghost blog content - create posts, sync drafts, push changes |
 
+## Related Repositories
+
+| Repository | Description |
+|------------|-------------|
+| [claude-grc-engineering](https://github.com/ethanolivertroy/claude-grc-engineering) | GRC Engineering plugin - NIST 800-53, FedRAMP, export controls, evidence collection |
+
 ## Installation
 
 ### From GitHub (Recommended)
