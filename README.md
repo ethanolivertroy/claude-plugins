@@ -13,7 +13,11 @@ A collection of Claude Code plugins.
 ### From GitHub (Recommended)
 
 ```bash
-/plugin install https://github.com/ethanolivertroy/claude-plugins/tree/main/ghost-content-plugin
+# Add this marketplace (one-time)
+/plugin marketplace add ethanolivertroy/claude-plugins
+
+# Install the plugin
+/plugin install ghost@ethanolivertroy/claude-plugins
 ```
 
 ### Local Development

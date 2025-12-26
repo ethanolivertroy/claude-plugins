@@ -7,7 +7,11 @@ A Claude Code plugin for managing Ghost blog content - create posts, sync drafts
 ### From GitHub (Recommended)
 
 ```bash
-/plugin install https://github.com/ethanolivertroy/claude-plugins/tree/main/ghost-content-plugin
+# Add the marketplace (one-time)
+/plugin marketplace add ethanolivertroy/claude-plugins
+
+# Install the plugin
+/plugin install ghost@ethanolivertroy/claude-plugins
 ```
 
 ### Local Development
