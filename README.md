@@ -17,7 +17,7 @@ A collection of Claude Code plugins.
 /plugin marketplace add ethanolivertroy/claude-plugins
 
 # Install the plugin
-/plugin install ghost@ethanolivertroy/claude-plugins
+/plugin install ghost@ethanolivertroy-plugins
 ```
 
 ### Local Development

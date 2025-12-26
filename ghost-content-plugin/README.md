@@ -11,7 +11,7 @@ A Claude Code plugin for managing Ghost blog content - create posts, sync drafts
 /plugin marketplace add ethanolivertroy/claude-plugins
 
 # Install the plugin
-/plugin install ghost@ethanolivertroy/claude-plugins
+/plugin install ghost@ethanolivertroy-plugins
 ```
 
 ### Local Development
