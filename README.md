@@ -11,6 +11,9 @@ My personal collection of Claude Code plugins for enhancing productivity and wor
 | [ghost-content-plugin](./ghost-content-plugin/) | Manage your Ghost blog content - create posts, sync drafts, push changes |
 | [readwise-plugin](./readwise-plugin/) | Comprehensive Readwise integration - search your highlights, save content, analyze reading data, export highlights |
 | [obsidian-plugin](./obsidian-plugin/) | AI-powered Obsidian.md vault management - create notes, search vault, suggest links, autonomous assistant |
+| [ralph-loop-plugin](./ralph-loop-plugin/) | Continuous self-referential AI loops for iterative development |
+| [typescript-lsp-plugin](./typescript-lsp-plugin/) | TypeScript/JavaScript language server for code intelligence |
+| [rust-analyzer-lsp-plugin](./rust-analyzer-lsp-plugin/) | Rust language server for code intelligence and analysis |
 
 ## My Other Claude Code Projects
 
@@ -35,6 +38,15 @@ My personal collection of Claude Code plugins for enhancing productivity and wor
 
 # Install Obsidian plugin
 /plugin install obsidian@ethanolivertroy-plugins
+
+# Install Ralph Loop plugin
+/plugin install ralph-loop@ethanolivertroy-plugins
+
+# Install TypeScript LSP plugin
+/plugin install typescript-lsp@ethanolivertroy-plugins
+
+# Install Rust Analyzer LSP plugin
+/plugin install rust-analyzer-lsp@ethanolivertroy-plugins
 ```
 
 ### Local Development

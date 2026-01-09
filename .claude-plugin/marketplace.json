@@ -21,6 +21,21 @@
       "name": "obsidian",
       "source": "./obsidian-plugin",
       "description": "AI-powered Obsidian.md vault management - create notes, search vault, suggest links, autonomous assistant"
+    },
+    {
+      "name": "ralph-loop",
+      "source": "./ralph-loop-plugin",
+      "description": "Continuous self-referential AI loops for iterative development"
+    },
+    {
+      "name": "typescript-lsp",
+      "source": "./typescript-lsp-plugin",
+      "description": "TypeScript/JavaScript language server for code intelligence"
+    },
+    {
+      "name": "rust-analyzer-lsp",
+      "source": "./rust-analyzer-lsp-plugin",
+      "description": "Rust language server for code intelligence and analysis"
     }
   ]
 }
