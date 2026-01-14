@@ -1,0 +1,8 @@
+{
+  "name": "amplenote",
+  "version": "0.1.0",
+  "description": "Amplenote integration - create notes, manage tasks, search your knowledge base",
+  "author": {
+    "name": "Ethan Troy"
+  }
+}

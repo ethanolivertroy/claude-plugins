@@ -1,0 +1,46 @@
+{
+  "name": "ethanolivertroy-plugins",
+  "owner": {
+    "name": "Ethan Troy"
+  },
+  "metadata": {
+    "description": "Claude Code plugins by Ethan Troy"
+  },
+  "plugins": [
+    {
+      "name": "ghost",
+      "source": "./ghost-content-plugin",
+      "description": "Manage Ghost blog content - create posts, sync drafts, push changes"
+    },
+    {
+      "name": "readwise",
+      "source": "./readwise-plugin",
+      "description": "Comprehensive Readwise integration - search highlights, save content, analyze reading data, export highlights"
+    },
+    {
+      "name": "obsidian",
+      "source": "./obsidian-plugin",
+      "description": "AI-powered Obsidian.md vault management - create notes, search vault, suggest links, autonomous assistant"
+    },
+    {
+      "name": "ralph-loop",
+      "source": "./ralph-loop-plugin",
+      "description": "Continuous self-referential AI loops for iterative development"
+    },
+    {
+      "name": "typescript-lsp",
+      "source": "./typescript-lsp-plugin",
+      "description": "TypeScript/JavaScript language server for code intelligence"
+    },
+    {
+      "name": "rust-analyzer-lsp",
+      "source": "./rust-analyzer-lsp-plugin",
+      "description": "Rust language server for code intelligence and analysis"
+    },
+    {
+      "name": "amplenote",
+      "source": "./amplenote-plugin",
+      "description": "Amplenote integration - create notes, manage tasks, search your knowledge base"
+    }
+  ]
+}
