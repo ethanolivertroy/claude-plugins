@@ -41,6 +41,11 @@
       "name": "amplenote",
       "source": "./amplenote-plugin",
       "description": "Amplenote integration - create notes, manage tasks, search your knowledge base"
+    },
+    {
+      "name": "linear-project-updates",
+      "source": "./linear-project-updates",
+      "description": "Post updates to Linear project Updates tab via projectUpdateCreate GraphQL mutation"
     }
   ]
 }
