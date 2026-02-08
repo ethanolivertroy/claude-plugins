@@ -46,6 +46,11 @@
       "name": "linear-project-updates",
       "source": "./linear-project-updates",
       "description": "Post updates to Linear project Updates tab via projectUpdateCreate GraphQL mutation"
+    },
+    {
+      "name": "image-generator",
+      "source": "./image-generator-plugin",
+      "description": "Generate and edit images using Gemini's Nano Banana Pro model"
     }
   ]
 }
