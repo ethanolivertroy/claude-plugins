@@ -1,3 +1,6 @@
 [submodule "obsidian-skills"]
 	path = obsidian-skills
 	url = https://github.com/kepano/obsidian-skills
+[submodule "visual-explainer"]
+	path = visual-explainer
+	url = https://github.com/nicobailon/visual-explainer.git
